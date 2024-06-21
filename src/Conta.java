@@ -44,7 +44,7 @@ public class Conta {
                 Operações:
                 1 - Consultar saldo
                 2 - Receber valor
-                3 - Transferir valor
+                3 - Transferir pix
                 4 - Sair
                 """);
         System.out.println(menu);
